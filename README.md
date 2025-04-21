@@ -12,7 +12,7 @@
 - **B站** 先知_芥无忧（主程）
 - **B站** 辰馨Ariao（UI制作）
 
-该项目依赖QuMod运行,感谢 [@Zero123_](https://github.com/Zero123_) 为 QuMod 社区做出的贡献。
+该项目依赖QuMod运行,感谢 [@Zero123_](https://github.com/Zero123_) 为社区做出的贡献。
 
 ## 项目简介
 
